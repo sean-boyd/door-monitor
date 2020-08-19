@@ -38,5 +38,5 @@ Use the following template in a Particle Webhook to get Plivo to send a text mes
 
 ## Built With
 
-* [Particle](https://www.particle.io/) - The web framework used
-* [Plivo](https://maven.apache.org/) - Dependency Management
+* [Particle](https://www.particle.io/) - Hardware and cloud IoT platform
+* [Plivo](https://www.plivo.com/) - SMS API and Voice API platform
